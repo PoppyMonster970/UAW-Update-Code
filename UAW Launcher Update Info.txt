@@ -1,3 +1,3 @@
 Version - 2.0
 
-Link - https://www.halowaypoint.com/
+Link - https://www.python.org/
